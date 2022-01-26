@@ -16,4 +16,3 @@
 # Add a feed source
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-echo 'src-git mtk https://github.com/Nossiac/mtk-openwrt-feeds;lede-17.01' >>feeds.conf.default
