@@ -42,3 +42,9 @@ A template for building OpenWrt with GitHub Actions
 ## License
 
 [MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+
+感谢大佬开源</br>
+个人编译记</br>
+.config  wifi仅L大闭源驱动</br>
+k2p.config  wifi仅开源wifi驱动</br>
+k2p-wifi.config</br>
