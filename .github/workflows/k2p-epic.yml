@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: K2p纯净
+name: K2p-epic
 
 on:
   repository_dispatch:
