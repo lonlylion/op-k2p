@@ -16,6 +16,4 @@
 # Add a feed source
 echo 'src-git kenzo https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
-echo 'src-git k3screenctrl_build https://github.com/lwz322/k3screenctrl_build' >>feeds.conf.default
-echo 'src-git luci-app-k3screenctrl https://github.com/lwz322/luci-app-k3screenctrl' >>feeds.conf.default
-echo 'src-git k3screenctrl https://github.com/lwz322/k3screenctrl' >>feeds.conf.default
+
